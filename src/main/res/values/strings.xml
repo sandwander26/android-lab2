@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">List of products app</string>
+    <string name="save">save</string>
+    <string name="clear">clear</string>
+    <string name="remove">remove</string>
+    <string name="productEditTextHint">product</string>
+</resources>
